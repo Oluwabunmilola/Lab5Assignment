@@ -1,0 +1,13 @@
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\bin\Debug\netcoreapp3.1\Lab5Assignment.exe
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\bin\Debug\netcoreapp3.1\Lab5Assignment.deps.json
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\bin\Debug\netcoreapp3.1\Lab5Assignment.runtimeconfig.json
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\bin\Debug\netcoreapp3.1\Lab5Assignment.runtimeconfig.dev.json
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\bin\Debug\netcoreapp3.1\Lab5Assignment.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\bin\Debug\netcoreapp3.1\Lab5Assignment.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.csprojAssemblyReference.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.AssemblyInfoInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.AssemblyInfo.cs
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.csproj.CoreCompileInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\Lab5Assignment\obj\Debug\netcoreapp3.1\Lab5Assignment.genruntimeconfig.cache
